@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 730cb149946fb28469cfe0e1fb2a08fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TileEmptyPrefab: {fileID: 7812851730785948117, guid: 92826960c08e53648bf0d14b521750be,
+      type: 3}
+  - TileWallPrefab: {fileID: 2782652378413718188, guid: 70991c73f2c75374692a097dd41eb95f,
+      type: 3}
+  - TileCornerPrefab: {fileID: 5466103709932026165, guid: 751d549c564ba6249858374e060bdd3a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
